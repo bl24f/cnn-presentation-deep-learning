@@ -22,8 +22,6 @@ doing and why it's there.
 - Reading a real CNN architecture diagram
 - Benefits over fully connected networks (parameter sharing, 
   local connectivity)
-- Real-world applications: medical imaging, object detection, 
-  autonomous vehicles
 
 ## Key Concepts Demonstrated
 - A 3x3 Sobel filter applied by hand to detect edges
