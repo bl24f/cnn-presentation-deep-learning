@@ -1,9 +1,9 @@
 # Convolutional Neural Networks (CNNs) — Educational Presentation
 
 ## Overview
-A 16-slide educational presentation introducing Convolutional Neural 
-Networks to a senior undergraduate STEM audience. Built for 
-Computational Probabilistic Modeling (FSU, Spring 2026).
+A 12-slide educational presentation introducing Convolutional Neural 
+Networks built for Computational Probabilistic Modeling (FSU, Spring 
+2026), a graduate-level course also open to senior undergraduates.
 
 The goal: by the end of the presentation, the audience can look at 
 a CNN architecture diagram and explain what every single block is 
