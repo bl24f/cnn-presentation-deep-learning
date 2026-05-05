@@ -15,7 +15,7 @@ doing and why it's there.
 - Custom SVG diagrams and visual explainers
 
 ## What's Covered
-- What convolution is — spatial intuition using the flashlight analogy
+- What convolution is, spatial intuition using the flashlight analogy
 - How filters scan images and produce feature maps
 - Pooling layers and why they build translation invariance
 - How stacking layers builds from edges → shapes → high-level features
@@ -33,13 +33,13 @@ doing and why it's there.
 
 ## Limitations & Lessons Learned
 - Presentation was designed for intuition-building, not 
-  implementation — a follow-up Jupyter notebook with working 
-  code would strengthen this project
+  implementation, a follow-up Jupyter notebook with working 
+  code would strengthen my project.
 - Future improvement: add an interactive demo showing real 
-  filter activations on an actual image
+  filter activations on an actual image.
 
 ## Files
 | File | Description |
 |------|-------------|
-| `CNN_Presentation.pdf` | Final slide deck (12 slides) |
-| `cnn_explainer.html` | Interactive HTML explainer built alongside the deck |
+| `CNN_Presentation.pdf` | Final slide deck (16 slides) |
+
